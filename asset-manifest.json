@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DillanThomas88/React-Portfolio/static/css/main.110cc4ff.css",
-    "main.js": "/DillanThomas88/React-Portfolio/static/js/main.0f35c4ef.js",
-    "static/js/787.ca78f21f.chunk.js": "/DillanThomas88/React-Portfolio/static/js/787.ca78f21f.chunk.js",
-    "static/media/react.svg": "/DillanThomas88/React-Portfolio/static/media/react.e2f1ec9e12371b7073fbead64205ac4d.svg",
-    "index.html": "/DillanThomas88/React-Portfolio/index.html",
-    "static/media/join.svg": "/DillanThomas88/React-Portfolio/static/media/join.79c7f6a790ecc89bf9c07473441f687e.svg",
-    "static/media/list.svg": "/DillanThomas88/React-Portfolio/static/media/list.40f7884b33b8155c91882f856f826d1f.svg",
-    "main.110cc4ff.css.map": "/DillanThomas88/React-Portfolio/static/css/main.110cc4ff.css.map",
-    "main.0f35c4ef.js.map": "/DillanThomas88/React-Portfolio/static/js/main.0f35c4ef.js.map",
-    "787.ca78f21f.chunk.js.map": "/DillanThomas88/React-Portfolio/static/js/787.ca78f21f.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.eb928d40.css",
+    "main.js": "/React-Portfolio/static/js/main.2255b72a.js",
+    "static/js/787.ca78f21f.chunk.js": "/React-Portfolio/static/js/787.ca78f21f.chunk.js",
+    "static/media/react.svg": "/React-Portfolio/static/media/react.e2f1ec9e12371b7073fbead64205ac4d.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "static/media/join.svg": "/React-Portfolio/static/media/join.79c7f6a790ecc89bf9c07473441f687e.svg",
+    "static/media/list.svg": "/React-Portfolio/static/media/list.40f7884b33b8155c91882f856f826d1f.svg",
+    "main.eb928d40.css.map": "/React-Portfolio/static/css/main.eb928d40.css.map",
+    "main.2255b72a.js.map": "/React-Portfolio/static/js/main.2255b72a.js.map",
+    "787.ca78f21f.chunk.js.map": "/React-Portfolio/static/js/787.ca78f21f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.110cc4ff.css",
-    "static/js/main.0f35c4ef.js"
+    "static/css/main.eb928d40.css",
+    "static/js/main.2255b72a.js"
   ]
 }
