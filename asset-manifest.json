@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.99fb75ed.css",
-    "main.js": "/React-Portfolio/static/js/main.b1993272.js",
+    "main.css": "/React-Portfolio/static/css/main.7e33b064.css",
+    "main.js": "/React-Portfolio/static/js/main.c141b487.js",
     "static/js/787.ca78f21f.chunk.js": "/React-Portfolio/static/js/787.ca78f21f.chunk.js",
     "static/media/glasses.jpg": "/React-Portfolio/static/media/glasses.3c0ba0cf2079f9c0dfe6.jpg",
     "static/media/ctf-board.png": "/React-Portfolio/static/media/ctf-board.0b30f95eebb9f5235436.png",
     "static/media/hexa.png": "/React-Portfolio/static/media/hexa.4785434d148967f3a376.png",
+    "static/media/dtm.pdf": "/React-Portfolio/static/media/dtm.6441ebaae6fce6c2f181.pdf",
     "static/media/react.svg": "/React-Portfolio/static/media/react.e2f1ec9e12371b7073fbead64205ac4d.svg",
     "static/media/github.svg": "/React-Portfolio/static/media/github.b4c68b55bb6eb3511510c5ea6b6ab666.svg",
     "index.html": "/React-Portfolio/index.html",
@@ -13,17 +14,18 @@
     "static/media/projects.svg": "/React-Portfolio/static/media/projects.e1a08497d8a64ec00efdbc950643b837.svg",
     "static/media/contact.svg": "/React-Portfolio/static/media/contact.fb823f3450fe90809903d91a6301c93a.svg",
     "static/media/home.svg": "/React-Portfolio/static/media/home.34cad30e69479a76f0ae47253a259f9c.svg",
+    "static/media/resume.svg": "/React-Portfolio/static/media/resume.c983162bc0837f628479a1e3c96911a8.svg",
+    "static/media/mail.svg": "/React-Portfolio/static/media/mail.da142fc13bcf8630acbbc2107bc35dd7.svg",
     "static/media/link.svg": "/React-Portfolio/static/media/link.81635a970954e7ae86ebbd0746b84564.svg",
-    "static/media/mail.svg": "/React-Portfolio/static/media/mail.f54a2b0aed2f2509c948aac0ba3e312d.svg",
     "static/media/list.svg": "/React-Portfolio/static/media/list.b0c9d4e4eb8e1e1a165cb6136ab95403.svg",
     "static/media/close-list.svg": "/React-Portfolio/static/media/close-list.cf4736b646d9fd959d92692ab8817e9f.svg",
     "static/media/user.svg": "/React-Portfolio/static/media/user.2b97eed337632ad58046aed1fa5b5db6.svg",
-    "main.99fb75ed.css.map": "/React-Portfolio/static/css/main.99fb75ed.css.map",
-    "main.b1993272.js.map": "/React-Portfolio/static/js/main.b1993272.js.map",
+    "main.7e33b064.css.map": "/React-Portfolio/static/css/main.7e33b064.css.map",
+    "main.c141b487.js.map": "/React-Portfolio/static/js/main.c141b487.js.map",
     "787.ca78f21f.chunk.js.map": "/React-Portfolio/static/js/787.ca78f21f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99fb75ed.css",
-    "static/js/main.b1993272.js"
+    "static/css/main.7e33b064.css",
+    "static/js/main.c141b487.js"
   ]
 }
